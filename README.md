@@ -1,4 +1,4 @@
 # hello-world
 just
 hi everyone
-i am gowtha subramanina
+i am gowtham subramanian
